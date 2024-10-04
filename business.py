@@ -1,3 +1,6 @@
+#Lourenco DaSilva
+#Linkedin: https://www.linkedin.com/in/lourenco-dasilva-b69986234/
+
 # Constants
 MINIMUM_HOURS = 32
 OVERTIME_MULTIPLIER = 1.5
